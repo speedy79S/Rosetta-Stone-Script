@@ -1,9 +1,10 @@
 {
   "person": "YOUR_NAME (Not Required)",
-  "authorization": "YOUR_AUTHORIZATION_TOKEN",
+  "authorization": "Bearer 5c158701-43cf-4d4c-9c85-c02aee624a20",
   "sessionToken": "YOUR_SESSION_TOKEN",
   "schoolName": "YOUR_SCHOOL_NAME",
-  "unitsToComplete": [1, 2, 3],
-  "userId": "YOUR_USER_ID",
-  "languageCode": "YOUR_LANGUAGE_CODE"
+  "unitsToComplete": [1, 2, 3], 
+  "userId": "83d68c60-7246-4854-b9b4-d4b96957a80e",
+  "languageCode": "ENG" 
 }
+
